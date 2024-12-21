@@ -11,6 +11,32 @@ A **Meditation Timer App** built with **React Native** using **Expo**. This app 
 - **Responsive Design**: Works seamlessly on both Android and iOS devices.
 - **Adjustable Timer**: Navigate to an adjustment screen to change the meditation duration.
 - **Auto-Stop**: The timer stops and pauses the audio automatically when the session ends.
+- **Login and signup**: The app provides a login and signup system to keep track of user info.
+- **AI Integration**: The app uses AI curated to act as a virtual Therapist.
+- **Yoga page**: The yoga page contains the top most helpfull yoga poses along with steps to perform them.
+
+---
+
+## Images
+# Login page and signup page
+![image](https://github.com/user-attachments/assets/977e5e94-a0f4-4478-ba96-2a89bd8eb9dd)      ![image](https://github.com/user-attachments/assets/9a103add-fd18-4914-b8da-f509af937d89)
+
+
+# Ai page
+![image](https://github.com/user-attachments/assets/f6bdc974-94c4-44e2-acd2-22aa5d27d4ae)
+
+# Meditation Page
+![image](https://github.com/user-attachments/assets/fdf9ab9f-48c8-4187-b28d-6c5dc208af67)   ![image](https://github.com/user-attachments/assets/e876157c-2147-4e29-b164-bb172d3ae6e5)
+
+# Music Page
+![image](https://github.com/user-attachments/assets/c2ca920d-5e2a-43ee-a24b-4db083df0eb9)   ![image](https://github.com/user-attachments/assets/d9efed26-9d11-49b0-baa0-6c2163dea47b)
+
+# Yoga Page
+![image](https://github.com/user-attachments/assets/d4d18bf2-fbbf-4510-ba7e-7216482ea277)   ![image](https://github.com/user-attachments/assets/104e74c6-3608-43b6-8d27-be67d66adc4a)
+
+# Settings page
+![image](https://github.com/user-attachments/assets/8132f669-6cbb-41bf-a7bc-a074447c045f)
+
 
 ---
 
@@ -40,7 +66,7 @@ A **Meditation Timer App** built with **React Native** using **Expo**. This app 
    ```
 4. Start the Expo development server:
    ```bash
-   npm start
+   npx expo start
    ```
 
 ---
@@ -49,6 +75,7 @@ A **Meditation Timer App** built with **React Native** using **Expo**. This app 
 
 1. **Launch the App**:
    - Start the app using an Android or iOS device, or an emulator.
+   - Or use Expo Go mobile application.
 
 2. **Start a Meditation Session**:
    - Click the "Start Meditation" button to begin the session.
@@ -112,6 +139,7 @@ A separate screen allows users to modify the session duration. The new duration 
 
 ## Contributing
 
+we are open for contribution feel free to follow below setps:
 1. Fork the repository.
 2. Create a new feature branch.
 3. Commit your changes.
@@ -121,4 +149,4 @@ A separate screen allows users to modify the session duration. The new duration 
 
 ## License
 
-This project is licensed under the [GNU](LICENSE).
+This project is licensed under the [GNU](LICENSE). 
