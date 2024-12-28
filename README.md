@@ -150,3 +150,10 @@ we are open for contribution feel free to follow below setps:
 ## License
 
 This project is licensed under the [GNU](LICENSE). 
+
+----
+
+## Acknowledgements
+
+This project was developed as part of a college initiative by [Swastik](https://github.com/NCG77), [Avanesh](https://github.com/AvaneshJ), and [Aditya](https://github.com/AdityaMazumder). You are welcome to use the project code for personal purposes, provided it adheres to the licensing terms and applicable legal regulations.
+Thank you for your interest and support!
