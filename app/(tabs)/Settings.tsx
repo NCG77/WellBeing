@@ -148,7 +148,7 @@ function Header({ theme }: { theme: any }) {
   return (
     <ThemedView style={[styles.header, { backgroundColor: theme.primary }]}>
       <Image
-        source={require("../../assets/images/Logo.png")}
+        source={require("../../assets/adaptive-icon.png")}
         style={styles.logo}
         resizeMode="contain"
       />
